@@ -1,13 +1,4 @@
-![](https://st3.depositphotos.com/1010735/14784/v/600/depositphotos_147849195-stock-illustration-welcome-banner-with-colorful-confetti.jpg)
-
-
-
-
-
-
-
-
-
+![](https://i.pinimg.com/originals/ff/d8/ec/ffd8ec1b52077a620112a4f5870fb9a7.jpg)
 
 ![Profile views](https://gpvc.arturio.dev/peter60626)  
 
