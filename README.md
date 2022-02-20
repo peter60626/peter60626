@@ -8,9 +8,9 @@ I am a good communicator and motivator, able to work as part of a team but also 
 
 
 
-** MY PROGRAMMING SKILL: **
+**📜 MY PROGRAMMING SKILL:** <br>
 
-📪 HOW TO REACH ME: <br>
+**📪 HOW TO REACH ME:** <br>
 
 
 
