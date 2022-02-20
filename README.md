@@ -8,7 +8,7 @@
 
 
 
-📜 MY PROGRAMMING SKILLS: <br>
+**📜 MY PROGRAMMING SKILLS: ** <br>
 
 📪 HOW TO REACH ME: <br>
 
