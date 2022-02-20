@@ -4,7 +4,7 @@
 
 ### HEY! <br> MY NAME IS PETER ASONGANYI.
 
-I am a good communicator and motivator, able to work as part of a team but also under my own initiative. I am a person who is self-motivated, energetic hardworking and reliable. My current work experience includes Cloud Native DevOps infrastructure migration. Monitoring, securing and taking part of the form in automating and supporting to ensure CI/CD in product development. With years of experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy fostering collaborative thinking to further the overall value proposition. <br>
+**I am a good communicator and motivator, able to work as part of a team but also under my own initiative. I am a person who is self-motivated, energetic hardworking and reliable. My current work experience includes Cloud Native DevOps infrastructure migration. Monitoring, securing and taking part of the form in automating and supporting to ensure CI/CD in product development. With years of experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy fostering collaborative thinking to further the overall value proposition. <br>
 
 
 
