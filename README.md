@@ -8,14 +8,19 @@
 
 **📚 MY EDUCATION:** <br>
 📘May 2015: MASTER OF BUSINESS, <br>
-  Business Administration, GPA: 3.23 
-🏫DAVENPORT UNIVERSITY. <br>
+  Business Administration, GPA: 3.23 <br>
+  DAVENPORT UNIVERSITY. <br>
+  
+  
+📗June 2013: BACHELOR OF SCIENCE, <br>
+  Engineering Management, GPA: 3.56 <br>
+  ARIZONA STATE UNIVERSITY. <br>
 
 
+📕June 2010: ASSOCIATE OF SCIENCE, <br>
+  Architecture Engineer, GPA: 3.56 <br>
+  TRUMAN COLLEGE CHICAGO. <br>
 
-                  Relevant courses: Physics (100), Java (90), Machine Leaning (92), Electrical & Electronic. Eng. (88).
-📗2009-2012: "MOR" High school, Maccabim-Reut, Israel.
-                  Specializations: Physics, Mathematics, Economics and English.
 🎗AWS Certified Cloud Practitioner.
 
 
