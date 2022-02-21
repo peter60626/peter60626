@@ -24,7 +24,7 @@
 
 
 
-**🎡MY PROGRAMMING SKILL:** <br>
+**🎡PROGRAMMING SKILLS & TOOLS:** <br>
 ✅HTML/HTML5.<br>
 ✅CSS/CSS3.<br>
 ✅Bootstarp.<br>
@@ -33,6 +33,17 @@
 ✅ <br>
 ✅ <br>
 ✅ <br>
+
+**⭐WORKFLOW-** <br>
+USING THE FOLLOWING TO AUTOMATE TASK SUCH AS: SOFTWARE AND PROGRAMMING TOOLS, VERSION CONTROLS TOOLS, CONFIGURATION MANAGEMENTS TOOLS, CONTAINERIZATION TOOLS AND AUTOMATION SERVERS. <br>
+✔Continuous Testing.<br>
+✔Continuous intergrating.<br>
+✔Continuos operating.<br>
+✔Continuous deploying or Continuous Delievery.<br>
+✔Continuous Monitoring & Debugging.<br>
+✔Cross Functional Team communication.<br>
+✔Agile Development & jinkins.<br>
+
 
 
 
