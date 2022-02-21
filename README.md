@@ -71,7 +71,13 @@ USING THE FOLLOWING TO AUTOMATE TASK SUCH AS: SOFTWARE AND PROGRAMMING TOOLS, VE
 🏆University of Chicago - DevOps Engineer Certificate. <br>
 
 
-**<br>📪HOW TO REACH ME:** <br>
+
+**<br><br>🛑HOW TO REACH ME:**<br>
+✔️Linkedin: **[Peter Asonganyi](https://www.linkedin.com/in/peter-asonganyi-02637244/)<br>**
+✔️Twitter: **[Peter Asonganyi](https://twitter.com/AsonganyiPeter)<br>**
+✔️E-Mail: **Peter60626@yahoo.com**
+✔️Phone: **(773)397-9730**
+
 
 
 
