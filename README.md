@@ -26,6 +26,13 @@
 **✏September 2018 - June 2020. Georgia** <br>VIEWTECH CONSULTING INC<br> CLOUD/DEVOPS ENGINEER, ASSOCIATE <br>
 <br> Involved in GIT administration and Enabling GIT Webhooks. • Involved in Branching, tagging of code delivery at required releases. • Recommendation of GIT/Build/Release Process. • Involved in Deployment of the application using Tomcat • Automated build process used for Web Based applications using several tools/Automation framework like Jenkins. • Gave insights in Build Automation of the project • Project involved the usage of maintaining a repository and version controlling. • Inputs to planning and estimation for configuration and release management activities. • Planned for release and configuration management • Co-work with the globally distributed Development team to fix the build related issues.
 
+**✏March 2017 - August 2017. Georgia.** <br>VIEWTECH CONSULTING INC<br>SYSTEMS AND APPLICATION DEVELOPMENT/PROJECT MANAGEMENT INTERN<br>
+<br> Created VPC for the multi-tier project. • We used Ansible playbooks to handle the automation of our web applications and Terraform as IaC. • Installation and management for Build Pipeline with Jenkins for Build and release (with pipeline as a code). • Autoscaling of EC2 instances. Managing security groups, Routing Policies and ELB's. • Evaluating performance of EC2 instances, their CPU, Memory usage, Network Usage and suggested appropriate instance type for the same. • Used Artifactory to deploy artifacts.
+
+
+**✏May 2015 - faburary 2017. Chicago.** <br>SUPPORT SPACE INC<br>PRODUCT SUPPORT SPECIALIST<br>
+<br> Mastered software functionality to provide technical support for third party companies such as Geek Squad. • Troubleshooted and investigated software issues. • Compiled data to draft analytical reports. • Developed and recommended functional solutions. • Provide support for all types break/fix level. • Ensure everything from virus removal to system cleanup was possible. • work as a team to solve challenging hardware software app problems.
+
 
 
 **📪 HOW TO REACH ME:** <br>
