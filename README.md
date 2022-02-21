@@ -75,8 +75,8 @@ USING THE FOLLOWING TO AUTOMATE TASK SUCH AS: SOFTWARE AND PROGRAMMING TOOLS, VE
 **<br><br>🛑HOW TO REACH ME:**<br>
 ✔️Linkedin: **[Peter Asonganyi](https://www.linkedin.com/in/peter-asonganyi-02637244/)<br>**
 ✔️Twitter: **[Peter Asonganyi](https://twitter.com/AsonganyiPeter)<br>**
-✔️E-Mail: **Peter60626@yahoo.com**
-✔️Phone: **(773)397-9730**
+✔️E-Mail: **Peter60626@yahoo.com<br>**
+✔️Phone: **(773)397-9730<br>**
 
 
 
