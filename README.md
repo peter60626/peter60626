@@ -64,7 +64,15 @@ USING THE FOLLOWING TO AUTOMATE TASK SUCH AS: SOFTWARE AND PROGRAMMING TOOLS, VE
 
 
 
+**<br><br>👨‍🎓AWARDS & CERTIFICATIONS:** <br>
+🏆AWS Certified Solution Architect.<br>
+🏆Associate AWS Certified DevOps Engineer. <br>
+🏆Professional AWS Certified Security - Speciality. <br>
+🏆University of Chicago - DevOps Engineer Certificate. <br>
+
+
 **<br>📪HOW TO REACH ME:** <br>
+
 
 
 
