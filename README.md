@@ -8,9 +8,21 @@
 
 
 
-**📜 MY PROGRAMMING SKILL:** <br>
+**🎡MY PROGRAMMING SKILL:** <br>
+✅HTML/HTML5.<br>
+✅CSS/CSS3.<br>
+✅Bootstarp.<br>
+✅JavaScript.<br>
+✅jQuery<br>
+✅ <br>
+✅ <br>
+✅ <br>
+
+**🎡EXPERIENCE: <br> VIEWTECH CONSULTING INC**<br> CLOUD/DEVOPS ENGINEER, ANALYST <br>
+
 
 **📪 HOW TO REACH ME:** <br>
+
 
 
 
