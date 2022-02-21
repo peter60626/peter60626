@@ -6,6 +6,17 @@
 
 **I am a good communicator and motivator, able to work as part of a team but also under my own initiative. I am a person who is self-motivated, energetic hardworking and reliable. My current work experience includes Cloud Native DevOps infrastructure migration. Monitoring, securing and taking part of the form in automating and supporting to ensure CI/CD in product development. With years of experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy fostering collaborative thinking to further the overall value proposition.** <br>
 
+**📚 MY EDUCATION:** <br>
+📘May 2015: MASTER OF BUSINESS, <br>
+  Business Administration, GPA: 3.23 
+🏫DAVENPORT UNIVERSITY. <br>
+
+
+
+                  Relevant courses: Physics (100), Java (90), Machine Leaning (92), Electrical & Electronic. Eng. (88).
+📗2009-2012: "MOR" High school, Maccabim-Reut, Israel.
+                  Specializations: Physics, Mathematics, Economics and English.
+🎗AWS Certified Cloud Practitioner.
 
 
 **🎡MY PROGRAMMING SKILL:** <br>
