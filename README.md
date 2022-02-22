@@ -30,6 +30,9 @@
 ✅Bootstarp.<br>
 ✅JavaScript.<br>
 ✅jQuery<br>
+✅Python<br>
+✅java<br>
+✅C++<br>
 
 
 **👉WORKFLOW-** <br>
