@@ -4,7 +4,7 @@
 
 ### HEY! <br> MY NAME IS PETER ASONGANYI.
 
-**I am a good communicator and motivator, able to work as part of a team but also under my own initiative. I am a person who is self-motivated, energetic hardworking and reliable. My current work experience includes Cloud Native DevOps infrastructure migration. Monitoring, securing and taking part of the form in automating and supporting to ensure CI/CD in product development. With years of experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy fostering collaborative thinking to further the overall value proposition.** <br>
+**Excellent communicator and motivator, able to work as part of a team but also under my own initiative. am person who is self-motivated, energetic hardworking and reliable. My current work experience includes Cloud Native DevOps infrastructure migration. Monitoring, securing and taking part of the form in automating and supporting to ensure CI/CD in product development. With years of experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy fostering collaborative thinking to further the overall value proposition.** <br>
 
 
 
@@ -60,7 +60,7 @@ USING THE FOLLOWING TO AUTOMATE TASK SUCH AS: SOFTWARE AND PROGRAMMING TOOLS, VE
 <br> ✓Created VPC for the multi-tier project. • We used Ansible playbooks to handle the automation of our web applications and Terraform as IaC. • Installation and management for Build Pipeline with Jenkins for Build and release (with pipeline as a code). • Autoscaling of EC2 instances. Managing security groups, Routing Policies and ELB's. • Evaluating performance of EC2 instances, their CPU, Memory usage, Network Usage and suggested appropriate instance type for the same. • Used Artifactory to deploy artifacts.
 
 
-**✏May 2015 - faburary 2017. Chicago.** <br>SUPPORT SPACE INC.<br>PRODUCT SUPPORT SPECIALIST.<br>
+**✏May 2015 - faburary 2017. Chicago.** <br>SUPPORTspace, Ltd.<br>PRODUCT SUPPORT SPECIALIST.<br>
 <br> ✓Mastered software functionality to provide technical support for third party companies such as Geek Squad. • Troubleshooted and investigated software issues. • Compiled data to draft analytical reports. • Developed and recommended functional solutions. • Provide support for all types break/fix level. • Ensure everything from virus removal to system cleanup was possible. • work as a team to solve challenging hardware software app problems.
 
 
@@ -77,7 +77,6 @@ USING THE FOLLOWING TO AUTOMATE TASK SUCH AS: SOFTWARE AND PROGRAMMING TOOLS, VE
 ✔️Linkedin: **[Peter Asonganyi](https://www.linkedin.com/in/peter-asonganyi-02637244/)<br>**
 ✔️Twitter: **[Peter Asonganyi](https://twitter.com/AsonganyiPeter)<br>**
 ✔️E-Mail: **Peter60626@yahoo.com<br>**
-✔
 
 
 
