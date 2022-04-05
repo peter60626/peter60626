@@ -6,18 +6,12 @@
 
 **Excellent communicator and motivator, able to work as part of a team but also under my own initiative. am person who is self-motivated, energetic hardworking and reliable. My current work experience includes Cloud Native DevOps infrastructure migration. Monitoring, securing and taking part of the form in automating and supporting to ensure CI/CD in product development. With years of experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy fostering collaborative thinking to further the overall value proposition.** <br>
 
-
-
-**<br><br>📚 MY EDUCATION:** <br>
-📘May 2015: MASTER OF BUSINESS, <br>
-  Business Administration, GPA: 3.23 <br>
-  DAVENPORT UNIVERSITY. <br>
   
-📗June 2013: BACHELOR OF SCIENCE, <br>
+📗June 2015: BACHELOR OF SCIENCE, <br>
   Engineering Management, GPA: 3.56 <br>
   ARIZONA STATE UNIVERSITY. <br>
 
-📕June 2010: ASSOCIATE OF SCIENCE, <br>
+📕June 2012: ASSOCIATE OF SCIENCE, <br>
   Architecture Engineer, GPA: 3.56 <br>
   TRUMAN COLLEGE CHICAGO. <br>
 
