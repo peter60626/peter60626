@@ -15,11 +15,11 @@
 **<br><br>🎡SKILLS & TOOLS:** <br>
 ✅HTML/HTML5.      ✅C++<br><br>
 ✅Bootstarp.       ✅C++<br><br>
-✅JavaScript.<br>
-✅Python<br>
-✅C++<br>
-✅C++<br>
-✅C++<br>
+✅JavaScript.      ✅C++<br><br>
+✅Python.          ✅C++<br>br>
+✅C++<b.           ✅C++<br>r>
+✅C++<b.           ✅C++<br>r>
+✅C++<b.           ✅C++<br>r>
 
 **👉WORKFLOW-** <br>
 USING THE FOLLOWING TO AUTOMATE TASK SUCH AS: SOFTWARE AND PROGRAMMING TOOLS, VERSION CONTROLS TOOLS, CONFIGURATION MANAGEMENTS TOOLS, CONTAINERIZATION TOOLS AND AUTOMATION SERVERS. <br>
