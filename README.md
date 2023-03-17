@@ -4,27 +4,22 @@
 
 ### HEY! <br> MY NAME IS PETER ASONGANYI.
 
-**Excellent communicator and motivator, able to work as part of a team but also under my own initiative. am person who is self-motivated, energetic hardworking and reliable. My current work experience includes Cloud Native DevOps infrastructure migration. Monitoring, securing and taking part of the form in automating and supporting to ensure CI/CD in product development. With years of experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy fostering collaborative thinking to further the overall value proposition.** <br>
+**Motivated Scrum Master with over 9+ years of experience coaching, mentoring and creating positive, respectful, and collaboratives work environment where cross- functional teams can achieve their greatest potential. Specialized in building high performance software development teams using innovative methodologies to deliver transformational digital solutions with complex systems.** <br>
 
   
 📗June 2015: BACHELOR OF SCIENCE, <br>
   Engineering Management, GPA: 3.56 <br>
   ARIZONA STATE UNIVERSITY. <br>
+  
 
-📕June 2012: ASSOCIATE OF SCIENCE, <br>
-  Architecture Engineer, GPA: 3.56 <br>
-  TRUMAN COLLEGE CHICAGO. <br>
-
-
-
-
-**<br><br>🎡PROGRAMMING SKILLS & TOOLS:** <br>
-✅HTML/HTML5.<br
-✅Bootstarp.<br>
-✅JavaScript.<br>
-✅Python<br>
-✅C++<br>
-
+**<br><br>🎡SKILLS & TOOLS:** <br>
+✅HTML/HTML5.<br                     ✅C++<br>
+✅Bootstarp.<br>                     ✅C++<br>
+✅JavaScript.<br>                    ✅C++<br>
+✅Python<br>                         ✅C++<br>
+✅C++<br>                            ✅C++<br>
+✅C++<br>                            ✅C++<br>
+✅C++<br>                            ✅C++<br>
 
 **👉WORKFLOW-** <br>
 USING THE FOLLOWING TO AUTOMATE TASK SUCH AS: SOFTWARE AND PROGRAMMING TOOLS, VERSION CONTROLS TOOLS, CONFIGURATION MANAGEMENTS TOOLS, CONTAINERIZATION TOOLS AND AUTOMATION SERVERS. <br>
