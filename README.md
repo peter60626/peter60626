@@ -13,7 +13,7 @@
   
 
 **<br><br>🎡SKILLS & TOOLS:** <br>
-✅HTML/HTML5.      ✅C++<br><br
+✅HTML/HTML5.      ✅C++<br><br>
 ✅Bootstarp.       ✅C++<br><br>
 ✅JavaScript.<br>
 ✅Python<br>
