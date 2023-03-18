@@ -36,7 +36,7 @@ FACILITARE AGILE PROCESS TO SCRUM TEAMS AND STEAKHOLDERS IN OTHER TO DELIVER FUN
 
 
 **<br><br>🎡MY EXPERIENCE:**<br>
-**✏2020 - Present. Remote ** <br> Bank of American. <br> CLOUD/DEVOPS ENGINEER, ANALYST. <br>
+**✏2020 - Present. Remote ** <br> Bank of American. <br> Scrum Master/Delivery Manager. <br>
 <br>✓Led data transformation project focused on enhancing new customer experience through opening of new accounts. Designed agile process adoption strategy to reduce cycle time by grooming teams with agile methodologies best practices.
 Improved backlog health by collaborating with product owner and stakeholders to accurately define objectives and support product owner in refining product backlog.
 Managed and facilitate scrum of scrums, PI planning sessions, retrospective workshops, and Lean software development workshops for infrastructure teams.
