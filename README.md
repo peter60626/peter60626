@@ -4,7 +4,7 @@
 
 ### HEY! <br> MY NAME IS PETER ASONGANYI.
 
-**Motivated Scrum Master with over 9+ years of experience coaching, mentoring and creating positive, respectful, and collaboratives work environment where cross- functional teams can achieve their greatest potential. Specialized in building high performance software development teams using innovative methodologies to deliver transformational digital solutions with complex systems.** <br>
+**Motivated Scrum Master with years of experience coaching, mentoring and creating positive, respectful, and collaboratives work environment where cross- functional teams can achieve their greatest potential. Specialized in building high performance software development teams using innovative methodologies to deliver transformational digital solutions with complex systems.** <br>
 
   
 📗2015: BACHELOR OF SCIENCE, <br>
