@@ -14,13 +14,13 @@
 
 **<br><br>🎡SKILLS & TOOLS:** <br>
 ✅Agile Coaching.✅Slack, MS Office and Project
-✅Scrum, Kanban.✅Python, Java, HTML
+✅Scrum, Kanban.✅Python, Java, HTMLNET, SQL, YAML
 ✅Adaptability.✅Great communication
 ✅IT planning.✅Stakeholder management
 ✅Quality analysis.✅Documentation management
-✅Team work.✅C++<br>br>
+✅Team work.✅Slack, MS Office and Project
 ✅Servant leadership.✅Project risk management
-✅Conflict resolution.✅Scrum, Kanban
+✅Conflict resolution.✅Scrum, Kanban✅Web development technique
 
 **👉WORKFLOW-** <br>
 USING THE FOLLOWING TO AUTOMATE TASK SUCH AS: SOFTWARE AND PROGRAMMING TOOLS, VERSION CONTROLS TOOLS, CONFIGURATION MANAGEMENTS TOOLS, CONTAINERIZATION TOOLS AND AUTOMATION SERVERS. <br>
