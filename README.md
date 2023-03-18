@@ -48,7 +48,7 @@ Utilize Jira and Kanban as primary tools to document and track requirements thro
 Improved transparency, removed impediments, and built trusting environment — allowing conflicts to be managed healthily.
 
 
-**✏2016 - June 2020. CA.** <br>Industrial Louver, INC - Delano, CA.<br> Scrum Master (SAFe). <br>
+**✏2016 - June 2020. CA.** <br>Industrial Louver, INC.<br> Scrum Master (SAFe). <br>
 <br> ✓Performed critical analysis on information consolidated from multiple sources, identified and resolved conflicts and broke down high-level information from product backlog into detailed workable requirements which increased delivery by 80%
 Facilitated Scrum/SAFe framework and events, such as Sprint Planning, Release Planning, and Program Increment Planning while maintaining transparency, inspection and adaptation
 Applied agile methodology to shorten cycle time and achieve target margins. coached teams in agile practices and provided agile training to encouraged team cohesion in overcoming impediments and hurdles to productivity.
