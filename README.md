@@ -23,7 +23,7 @@
 ✅Conflict resolution.✅Scrum, Kanban✅Web development technique
 
 **👉WORKFLOW-** <br>
-USING THE FOLLOWING TO AUTOMATE TASK SUCH AS: SOFTWARE AND PROGRAMMING TOOLS, VERSION CONTROLS TOOLS, CONFIGURATION MANAGEMENTS TOOLS, CONTAINERIZATION TOOLS AND AUTOMATION SERVERS. <br>
+FACILITARE AGILE PROCESS TO SCRUM TEAMS AND STEAKHOLDERS IN OTHER TO DELIVER FUNCTIONAL USABLE INCRIMENTS SUCHE TASK USING SOFTWARE AND PROGRAMMING TOOLS, VERSION CONTROLS TOOLS, CONFIGURATION MANAGEMENTS TOOLS, CONTAINERIZATION TOOLS AND AUTOMATION SERVERS. <br>
 ✔Continuous Testing.<br>
 ✔Continuous intergrating.<br>
 ✔Continuos operating.<br>
@@ -70,14 +70,14 @@ Prioritizing tasks with solid time management skills to facilitate intercommunic
 🏆Professional Scrum Master I (PSM).<br>
 🏆Certified Scrum Master I (CSM). <br>
 🏆Certified SAFe 5 Scrum Master (SSM). <br>
-🏆University of Chicago - DevOps Engineer Certificate. <br>
+🏆University of Chicago - DevOps Certificate. <br>
 
 
 
 **<br><br>🛑HOW TO REACH ME:**<br>
 ✔️Linkedin: **[Peter Asonganyi](https://www.linkedin.com/in/pasonganyi/)<br>**
 ✔️Twitter: **[Peter Asonganyi](https://twitter.com/pasonganyi)<br>**
-✔️E-Mail: **Peter60626@yahoo.com<br>**
+✔️E-Mail: **asasonganyi@gmail.com<br>**
 
 
 
