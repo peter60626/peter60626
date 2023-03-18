@@ -24,13 +24,15 @@
 
 **👉WORKFLOW-** <br>
 FACILITARE AGILE PROCESS TO SCRUM TEAMS AND STEAKHOLDERS IN OTHER TO DELIVER FUNCTIONAL USABLE INCRIMENTS SUCHE TASK USING SOFTWARE AND PROGRAMMING TOOLS, VERSION CONTROLS TOOLS, CONFIGURATION MANAGEMENTS TOOLS, CONTAINERIZATION TOOLS AND AUTOMATION SERVERS. <br>
+✔Application development.<br>
+✔Software development.<br>
 ✔Continuous Testing.<br>
 ✔Continuous intergrating.<br>
 ✔Continuos operating.<br>
 ✔Continuous deploying or Continuous Delievery.<br>
 ✔Continuous Monitoring & Debugging.<br>
 ✔Cross Functional Team communication.<br>
-✔Agile Development & jinkins.<br>
+✔AWS, Azure, Github, Gitlab, Jinkins Terraform.<br>
 
 
 
