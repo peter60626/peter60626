@@ -22,30 +22,26 @@
 
 **<br><br>🎡SOFT SKILLS Tool & PLATFORMS:** <br>
 
-✅Scrum, Kanban.✅PI Planning.
+✅Scrum, Kanban, Lean, XP.✅PI planning, Print planning.
 ✅Quality analysis.✅Documentation management
 ✅Team work.✅Slack, MS Office and Project
 ✅Servant leadership.✅Project risk management
-✅Conflict resolution.✅Jira, Confluence
+✅Conflict resolution.✅Jira projrct timeline management
 ✅Web development technique.✅Jira, Confluence
-✅TEAMS, MS Office and Project.✅Stakeholder Management
-
-
+✅Microsoft teams, MS Office and Project.✅Stakeholder Management
 
 
 **👉WORKFLOW-** <br>
 FACILITATE AGILE PROCESS TO SCRUM TEAMS AND STEAKHOLDERS IN OTHER TO DELIVER FUNCTIONAL USABLE INCRIMENTS USING COLLABURATION AND DOCUMENTATION TOOLS, AGILE PPROJECT MANAGEMENT TOOLS, SCALE AGILE FRAMEWORK (SAFe) TOOLS, SOFTWARE PROGRAMMING TOOLS, VERSION CONTROLS TOOLS, CONFIGURATION MANAGEMENTS TOOLS, CONTAINERIZATION TOOLS AND AUTOMATION TOOLS. <br>
-✔Application development.<br>
 
-✔Application development.<br>
-✔Software development.<br>
+✔Atlassian Confluence+JIRA.<br>
+✔Software development lifecycle.<br>
 ✔Continuous Testing.<br>
 ✔Continuous intergrating.<br>
 ✔Continuos operating.<br>
 ✔Continuous deploying or Continuous Delievery.<br>
 ✔Continuous Monitoring & Debugging.<br>
-✔Cross Functional Team communication.<br>
-✔AWS, Azure, Github, Gitlab, Jinkins Terraform.<br>
+✔Cross Functional Team collaboration.<br>
 
 
 **<br><br>🎡MY EXPERIENCE:**<br>
@@ -56,7 +52,6 @@ Applied agile methodology to shorten cycle time and achieve target margins. coac
 Shielded scrum team from external interference for optimal productivity and success of agile process.
 Provided extensive guidance on agile scrum processes and methodologies leading to highly effective teams improving quality and productivity. Improved support response time by 37% by developing intelligent incident and problem tracking systems which identified and addressed risks, road blocks, and conflicts..
 
-**<br><br>🎡MY EXPERIENCE:**<br>
 **✏2020 - 2023. Remote ** <br> Bank of American. <br> Scrum Master/Delivery Manager. <br>
 <br> ✓Led data transformation project focused on enhancing new customer experience through opening of new accounts. Designed agile process adoption strategy to reduce cycle time by grooming teams with agile methodologies best practices.
 Improved backlog health by collaborating with product owner and stakeholders to accurately define objectives and support product owner in refining product backlog.
@@ -65,7 +60,6 @@ Kept projects on schedule by managing deadlines, fostering collaboration, trust,
 Organized and facilitated sprint planning, daily scrum, sprint reviews, sprint retrospective, release planning and demos, decreasing time-to-delivery by 30%
 Utilize Jira and Kanban as primary tools to document and track requirements throughout software development life cycle.
 Improved transparency, removed impediments, and built trusting environment — allowing conflicts to be managed healthily.
-
 
 **✏2019 -  2020.** <br>Standvast Fullfilment, LLC.<br> DevOps Engineer (SAFe). <br>
 <br> ✓Architected and managed AWS, Azure, and GCP cloud environments, utilizing services like EC2, EKS, S3, RDS, Lambda, and VPC for development and testing
