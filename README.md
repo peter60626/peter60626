@@ -75,7 +75,7 @@ Analyzed business and software requirements to understand stakeholders and devel
 Prioritizing tasks with solid time management skills to facilitate intercommunication within teams to complete planned work.
 
 
-**✏2015 - faburary 2016.** <br>SUPPORTspace, Ltd.<br>IT SUPPORT SPECIALIST INTERN.<br>
+**✏2015 - faburary 2016.** <br>SUPPORT SPACE, Ltd.<br>IT SUPPORT SPECIALIST INTERN.<br>
 <br> ✓Mastered software functionality to provide technical support for third party companies such as Geek Squad. • Troubleshooted and investigated software issues. • Compiled data to draft analytical reports. • Developed and recommended functional solutions. • Provide support for all types break/fix level. • Ensure everything from virus removal to system cleanup was possible. • work as a team to solve challenging hardware software app problems.
 
 
