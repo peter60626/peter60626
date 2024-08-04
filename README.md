@@ -1,7 +1,5 @@
-![](https://i.pinimg.com/originals/ff/d8/ec/ffd8ec1b52077a620112a4f5870fb9a7.jpg)
-
-![Profile views](https://gpvc.arturio.dev/peter60626)  
-
+[![](https://i.pinimg.com/originals/ff/d8/ec/ffd8ec1b52077a620112a4f5870fb9a7.jpg)
+](https://github.com/peter60626)
 ### HEY! <br> MY NAME IS PETER ASONGANYI.
 
 **Motivated Scrum Master with years of experience coaching, mentoring and creating positive, respectful, and collaboratives work environment where cross- functional teams can achieve their greatest potential. Specialized in building high performance software development teams using innovative methodologies to deliver transformational digital solutions with complex systems.** <br>
