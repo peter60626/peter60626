@@ -69,7 +69,7 @@ Built and maintained automated CI/CD pipelines with AWS CodePipeline and Jenkins
 Enhanced security posture by implementing and managing IAM roles, security groups, and network ACLs
 Implemented and maintained continuous integration and continuous delivery (CI/CD) pipelines.
 
-**✏2015 - 2019.** <br> Signify Health, NY.<br>Agile Business Analyst.<br>
+**✏2016 - 2019.** <br> Signify Health, NY.<br>Agile Business Analyst.<br>
 <br> ✓Built data visualizations using SQL and Tableau for business KPIs that decreased manual reporting work by 9 hours weekly.
 Independently utilized Agile Scrum practices to lead Health Information management team to increase their velocity by 60%
 Secure, cleaned and prepped data for clients using Python, SQL and Excel which helped data scientists to build marketing mix models which resulted increase in ROI by 7 points.
