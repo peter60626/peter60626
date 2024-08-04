@@ -59,7 +59,7 @@ Organized and facilitated sprint planning, daily scrum, sprint reviews, sprint r
 Utilize Jira and Kanban as primary tools to document and track requirements throughout software development life cycle.
 Improved transparency, removed impediments, and built trusting environment — allowing conflicts to be managed healthily.
 
-**✏2019 -  2020.** <br>Standvast Fullfilment, LLC.<br> DevOps Engineer (SAFe). <br>
+**✏2019 -  2020.** <br>Standvast Fullfilment, LLC. Remote <br> DevOps Engineer (SAFe). <br>
 <br> ✓Architected and managed AWS, Azure, and GCP cloud environments, utilizing services like EC2, EKS, S3, RDS, Lambda, and VPC for development and testing
 Implemented Infrastructure as Code (IaC) using CloudFormation, Terraform, and Ansible, reducing
 manual configuration errors and ensuring reproductivity.
@@ -67,7 +67,7 @@ Built and maintained automated CI/CD pipelines with AWS CodePipeline and Jenkins
 Enhanced security posture by implementing and managing IAM roles, security groups, and network ACLs
 Implemented and maintained continuous integration and continuous delivery (CI/CD) pipelines.
 
-**✏2016 - 2019.** <br> Signify Health, NY.<br>Agile Business Analyst.<br>
+**✏2016 - 2019.** <br> Signify Health.<br>Agile Business Analyst.<br>
 <br> ✓Built data visualizations using SQL and Tableau for business KPIs that decreased manual reporting work by 9 hours weekly.
 Independently utilized Agile Scrum practices to lead Health Information management team to increase their velocity by 60%
 Secure, cleaned and prepped data for clients using Python, SQL and Excel which helped data scientists to build marketing mix models which resulted increase in ROI by 7 points.
