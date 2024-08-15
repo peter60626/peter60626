@@ -67,7 +67,7 @@ Built and maintained automated CI/CD pipelines with AWS CodePipeline and Jenkins
 Enhanced security posture by implementing and managing IAM roles, security groups, and network ACLs
 Implemented and maintained continuous integration and continuous delivery (CI/CD) pipelines.
 
-**✏2016 - 2019.** <br> Signify Health.<br>Agile Business Analyst.<br>
+**✏2015 - 2019.** <br> Signify Health.<br>Agile Business Analyst.<br>
 <br> ✓Built data visualizations using SQL and Tableau for business KPIs that decreased manual reporting work by 9 hours weekly.
 Independently utilized Agile Scrum practices to lead Health Information management team to increase their velocity by 60%
 Secure, cleaned and prepped data for clients using Python, SQL and Excel which helped data scientists to build marketing mix models which resulted increase in ROI by 7 points.
@@ -75,7 +75,7 @@ Analyzed business and software requirements to understand stakeholders and devel
 Prioritizing tasks with solid time management skills to facilitate intercommunication within teams to complete planned work.
 
 
-**✏2015 - faburary 2016.** <br>SUPPORT SPACE, Ltd.<br>IT SUPPORT SPECIALIST INTERN.<br>
+**✏2014 - faburary 2015.** <br>SUPPORT SPACE, Ltd.<br>IT SUPPORT SPECIALIST INTERN.<br>
 <br> ✓Mastered software functionality to provide technical support for third party companies such as Geek Squad. • Troubleshooted and investigated software issues. • Compiled data to draft analytical reports. • Developed and recommended functional solutions. • Provide support for all types break/fix level. • Ensure everything from virus removal to system cleanup was possible. • work as a team to solve challenging hardware software app problems.
 
 
