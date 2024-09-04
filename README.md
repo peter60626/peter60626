@@ -50,7 +50,7 @@ Applied agile methodology to shorten cycle time and achieve target margins. coac
 Shielded scrum team from external interference for optimal productivity and success of agile process.
 Provided extensive guidance on agile scrum processes and methodologies leading to highly effective teams improving quality and productivity. Improved support response time by 37% by developing intelligent incident and problem tracking systems which identified and addressed risks, road blocks, and conflicts..
 
-**✏2020 - 2023. Remote ** <br> Bank of American. <br> Scrum Master/Delivery Manager. <br>
+**✏2020 - 2023. Remote ** <br> Bank of American. <br> Sr. Scrum Master/Delivery Manager. <br>
 <br> ✓Led data transformation project focused on enhancing new customer experience through opening of new accounts. Designed agile process adoption strategy to reduce cycle time by grooming teams with agile methodologies best practices.
 Improved backlog health by collaborating with product owner and stakeholders to accurately define objectives and support product owner in refining product backlog.
 Managed and facilitate scrum of scrums, PI planning sessions, retrospective workshops, and Lean software development workshops for infrastructure teams.
